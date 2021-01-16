@@ -1,0 +1,298 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103938792-90279200-5109-11eb-906a-50ac3b73e40d.jpg",
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103938837-a1709e80-5109-11eb-9660-96b17ed8105d.jpg",
+      "language": "Danish"
+    },
+    {
+      "id": 3,
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103938865-a9c8d980-5109-11eb-9e4b-e90166846222.jpg",
+      "language": "Italian"
+    },
+    {
+      "id": 4,
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103940712-910df300-510c-11eb-8a2b-a3482d4809e4.jpg",
+      "language": "Akkadian"
+    },
+    {
+      "id": 5,
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103940846-cc102680-510c-11eb-8868-a8c5e52ebc0b.jpg",
+      "language": "Hebrew"
+    },
+    {
+      "id": 6,
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103940972-f530b700-510c-11eb-86d5-7290315b410e.jpg",
+      "language": "Arabic"
+    },
+    {
+      "id": 7,
+      "author": "Unknown",
+      "country": "Iceland",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103941123-2c9f6380-510d-11eb-9fee-f2fb67973628.jpg",
+      "language": "Old Norse"
+    },
+    {
+      "id": 8,
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103941215-4ccf2280-510d-11eb-8d2d-3f2f19cef722.jpg",
+      "language": "English"
+    },
+    {
+      "id": 9,
+      "author": "Honor\u00e9 de Balzac",
+      "country": "France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103941425-94ee4500-510d-11eb-8a75-251161f3873b.jpg",
+      "language": "French"
+    },
+    {
+      "id": 10,
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103941794-252c8a00-510e-11eb-9881-25d64b9e7472.jpg",
+      "language": "French, English"
+    },
+    {
+      "id": 11,
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103941896-4a20fd00-510e-11eb-9d9c-a211f97596b3.jpg",
+      "language": "Italian"
+    },
+    {
+      "id": 12,
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103942080-99ffc400-510e-11eb-9251-98eee6a6b9d3.jpg",
+      "language": "Spanish"
+    },
+    {
+      "id": 13,
+      "author": "Emily Bront\u00eb",
+      "country": "United Kingdom",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/103942491-3de96f80-510f-11eb-9bf6-8e7f4c966699.jpg",
+      "language": "English"
+    },
+    {
+      "id": 14,
+      "author": "Albert Camus",
+      "country": "Algeria, French Empire",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104768836-0e5ce780-574d-11eb-8917-ed5b361d5181.jpg",
+      "language": "French"
+    },
+    {
+      "id": 15,
+      "author": "Paul Celan",
+      "country": "Romania, France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104768881-1f0d5d80-574d-11eb-9d27-054def67f141.jpg",
+      "language": "German"
+    },
+    {
+      "id": 16,
+      "author": "Louis-Ferdinand C\u00e9line",
+      "country": "France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104768928-364c4b00-574d-11eb-8ff0-79e4b74adb35.jpg",
+      "language": "French"
+    },
+    {
+      "id": 17,
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104768960-45cb9400-574d-11eb-9e6d-e20c04a80259.jpg",
+      "language": "Spanish"
+    },
+    {
+      "id": 18,
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769009-5b40be00-574d-11eb-8f5e-b3877e2c5f47.jpg",
+      "language": "English"
+    },
+    {
+      "id": 19,
+      "author": "Anton Chekhov",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769045-6b589d80-574d-11eb-8281-bcd8f003f55f.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 20,
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769093-81fef480-574d-11eb-985c-b76b6d678110.jpg",
+      "language": "English"
+    },
+    {
+      "id": 21,
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769138-95aa5b00-574d-11eb-8c1d-023f1bd624f3.jpg",
+      "language": "English"
+    },
+    {
+      "id": 22,
+      "author": "Denis Diderot",
+      "country": "France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769170-a529a400-574d-11eb-8805-723cdba24ceb.jpg",
+      "language": "French"
+    },
+    {
+      "id": 23,
+      "author": "Alfred D\u00f6blin",
+      "country": "Germany",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769216-ba9ece00-574d-11eb-9ff0-bd17ff2f02d4.jpg",
+      "language": "German"
+    },
+    {
+      "id": 24,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769253-cab6ad80-574d-11eb-9668-714dcbad283d.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 25,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769299-dbffba00-574d-11eb-8ec8-d66106618af6.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 26,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769367-f6399800-574d-11eb-8da5-15bd7315e60c.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 27,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769397-0487b400-574e-11eb-90cf-becdc26c7b00.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 28,
+      "author": "George Eliot",
+      "country": "United Kingdom",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769459-18331a80-574e-11eb-9086-1a304c6b3fe6.jpg",
+      "language": "English"
+    },
+    {
+      "id": 29,
+      "author": "Ralph Ellison",
+      "country": "United States",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769516-2aad5400-574e-11eb-85d5-ed64d5369523.jpg",
+      "language": "English"
+    },
+    {
+      "id": 30,
+      "author": "Euripides",
+      "country": "Greece",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769547-3731ac80-574e-11eb-8f33-74d0a480cb22.jpg",
+      "language": "Greek"
+    },
+    {
+      "id": 31,
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769582-47498c00-574e-11eb-847c-7b91fa14bd02.jpg",
+      "language": "English"
+    },
+    {
+      "id": 32,
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769606-5597a800-574e-11eb-906b-611a7673dd2d.jpg",
+      "language": "English"
+    },
+    {
+      "id": 33,
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769685-706a1c80-574e-11eb-9c03-f5afda2da242.jpg",
+      "language": "French"
+    },
+    {
+      "id": 34,
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769713-7e1fa200-574e-11eb-9966-b6ce6a65c597.jpg",
+      "language": "French"
+    },
+    {
+      "id": 35,
+      "author": "Federico Garc\u00eda Lorca",
+      "country": "Spain",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769760-8d9eeb00-574e-11eb-835c-c85aa4d0cf8b.jpg",
+      "language": "Spanish"
+    },
+    {
+      "id": 36,
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769804-9bed0700-574e-11eb-9cab-57a9c650c996.jpg",
+      "language": "Spanish"
+    },
+    {
+      "id": 37,
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769843-ab6c5000-574e-11eb-885b-8107fc02b837.jpg",
+      "language": "Spanish"
+    },
+    {
+      "id": 38,
+      "author": "Johann Wolfgang von Goethe",
+      "country": "Saxe-Weimar",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769882-ba530280-574e-11eb-9665-eb61b19c655c.jpg",
+      "language": "German"
+    },
+    {
+      "id": 39,
+      "author": "Nikolai Gogol",
+      "country": "Russia",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769926-ce96ff80-574e-11eb-844b-507dc34505db.jpg",
+      "language": "Russian"
+    },
+    {
+      "id": 40,
+      "author": "G\u00fcnter Grass",
+      "country": "Germany",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104769958-dce51b80-574e-11eb-9600-f14f97ecdc31.jpg",
+      "language": "German"
+    },
+    {
+      "id": 41,
+      "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+      "country": "Brazil",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104770005-ebcbce00-574e-11eb-89fd-6d2bc4fc1b99.jpg",
+      "language": "Portuguese"
+    },
+    {
+      "id": 41,
+      "author": "Knut Hamsun",
+      "country": "Norway",
+      "imageLink": "https://user-images.githubusercontent.com/22780253/104770219-000fcb00-574f-11eb-9e50-5092f5b34c12.jpg",
+      "language": "Norwegian"
+    }
+  ]
+}
