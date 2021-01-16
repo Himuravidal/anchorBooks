@@ -83,27 +83,6 @@
             "country": "Argentina",
             "imageLink": "https://user-images.githubusercontent.com/22780253/103942080-99ffc400-510e-11eb-9251-98eee6a6b9d3.jpg",
             "language": "Spanish"
-        },
-        {
-            "id": 13,
-            "author": "Emily Bront\u00eb",
-            "country": "United Kingdom",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/103942491-3de96f80-510f-11eb-9bf6-8e7f4c966699.jpg",
-            "language": "English"
-        },
-        {
-            "id": 14,
-            "author": "Albert Camus",
-            "country": "Algeria, French Empire",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/104768836-0e5ce780-574d-11eb-8917-ed5b361d5181.jpg",
-            "language": "French"
-        },
-        {
-            "id": 15,
-            "author": "Paul Celan",
-            "country": "Romania, France",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/104768881-1f0d5d80-574d-11eb-9d27-054def67f141.jpg",
-            "language": "German"
         }
     ],
     "bookDetail": [
@@ -272,48 +251,6 @@
             "title": "Ficciones",
             "year": 1965,
             "price": 14500,
-            "lastPrice": 17500,
-            "delivery": true
-        },
-        {
-            "id": 13,
-            "author": "Emily Bront\u00eb",
-            "country": "United Kingdom",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/103942491-3de96f80-510f-11eb-9bf6-8e7f4c966699.jpg",
-            "language": "English",
-            "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
-            "pages": 342,
-            "title": "Wuthering Heights",
-            "year": 1847,
-            "price": 12500,
-            "lastPrice": 17500,
-            "delivery": true
-        },
-        {
-            "id": 14,
-            "author": "Albert Camus",
-            "country": "Algeria, French Empire",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/104768836-0e5ce780-574d-11eb-8917-ed5b361d5181.jpg",
-            "language": "French",
-            "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
-            "pages": 185,
-            "title": "The Stranger",
-            "year": 1942,
-            "price": 15500,
-            "lastPrice": 17500,
-            "delivery": true
-        },
-        {
-            "id": 15,
-            "author": "Paul Celan",
-            "country": "Romania, France",
-            "imageLink": "https://user-images.githubusercontent.com/22780253/104768881-1f0d5d80-574d-11eb-9d27-054def67f141.jpg",
-            "language": "German",
-            "link": "\n",
-            "pages": 320,
-            "title": "Poems",
-            "year": 1952,
-            "price": 12500,
             "lastPrice": 17500,
             "delivery": true
         }
